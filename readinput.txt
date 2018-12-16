@@ -1,0 +1,5 @@
+Python 75 Challenge - Remote Hackathon - Pilot
+Procedure:
+1. Fork this code: https://github.com/teamtact/python-75-hackathon
+2. Start coding and commit often
+3. Update your github repository link in the challenge input
